@@ -1,0 +1,7 @@
+﻿  thread_student.cpp
+D:\OS\FeedBack\thread_student.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\OS\FeedBack\thread_hdr.h(1,1): warning C4828: 文件包含在偏移 0x3b7 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  thread_tester.cpp
+D:\OS\FeedBack\thread_hdr.h(1,1): warning C4828: 文件包含在偏移 0x3b7 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  FeedBack.vcxproj -> D:\OS\FeedBack\x64\Debug\FeedBack.exe
